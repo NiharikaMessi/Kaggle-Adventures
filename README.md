@@ -1,2 +1,2 @@
-# Kaggle-Adventures
+# Kaggle-Adventure
 Kaggle Problems Solution 
